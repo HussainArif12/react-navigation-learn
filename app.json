@@ -1,0 +1,12 @@
+{
+  "name": "router-learn",
+  "displayName": "router-learn",
+  "expo": {
+    "name": "router-learn",
+    "slug": "router-learn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
